@@ -1,3 +1,11 @@
+# presentation: Android Application Architecture
+
+This is a presentation of architecture of applications on Android platform.
+
+Created and presented by Maciej Górski.
+
+Using:
+
 # reveal.js [![Build Status](https://travis-ci.org/hakimel/reveal.js.png?branch=master)](https://travis-ci.org/hakimel/reveal.js)
 
 A framework for easily creating beautiful presentations using HTML. [Check out the live demo](http://lab.hakim.se/reveal-js/).
